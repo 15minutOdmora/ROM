@@ -5,7 +5,7 @@
 - 9 
 ### [Učni list - Potence.pdf](https://www.sc-nm.si/sss/si/file/download/857_88cc06344dc2/U%C4%8Dni%20list%20-%20Potence.pdf)
 - 6
-### [Učni list - Računanje z izrazi.pdf](https://www.sc-nm.si/sss/si/file/download/851_b391a4d3b88a/U%C4%8Dni%20list%20-
+## Učni list - Računanje z izrazi.pdf
 - 5
 ## Učni list - Racionalna števila.pdf
 - 9
